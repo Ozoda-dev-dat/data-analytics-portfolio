@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  O‘zbekistondagi Aholi va Ishsizlik Analizi
 
 Bu loyiha O‘zbekistonning turli viloyatlaridagi aholi soni, ishsizlik darajasi va o‘rtacha ish haqi o‘rtasidagi bog‘liqlikni o‘rganadi.
@@ -23,3 +24,6 @@ Bu loyiha O‘zbekistonning turli viloyatlaridagi aholi soni, ishsizlik darajasi
 ```bash
 pip install -r requirements.txt
 python data_analysis.py
+=======
+# data-analytics-portfolio
+>>>>>>> 1ce594b0eee57f098c6509857a49f90a8fc07196
